@@ -1,0 +1,39 @@
+body {
+  background: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+}
+
+h1,
+h2 {
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+a {
+  color: aquamarine;
+  text-align: center;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+p {
+  color: grey;
+  text-align: center;
+  font-weight: normal;
+  font-size: 21px;
+}
+
+video {
+  text-align: center;
+}
+
+img {
+  object-position: center top;
+}
+
+.footer {
+  text-align: right;
+}
